@@ -5,7 +5,7 @@
 - <b>IT Authentication, Support, and Knowledge Suite</b>
   - [Active Directory Deployment](https://linktoit)
   - [osTicket Deployment (Help Desk Ticketing System)](https://linktoit)
-  - [DokuWiki Deployment (Knowledge Base](https://linktoit)
+  - [DokuWiki Deployment (Knowledge Base)](https://linktoit)
 <!--
 - <b>Scripting</b>
   - 

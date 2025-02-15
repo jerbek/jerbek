@@ -4,7 +4,7 @@
 
 - <b>IT Authentication, Support, and Knowledge Suite</b>
   - [Active Directory Deployment](https://github.com/jerbek/active-directory-deployment)
-  - [osTicket Deployment (Help Desk Ticketing System)](https://linktoit)
+  - [osTicket Deployment (Help Desk Ticketing System)](https://github.com/jerbek/osticket-deployment)
   - [DokuWiki Deployment (Knowledge Base)](https://linktoit)
 <!--
 - <b>Scripting</b>

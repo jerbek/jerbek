@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeremiah, an <a href="">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jeremiah, an <a href="https://www.linkedin.com/in/jeremiah-b-542bb3338/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -8,6 +8,10 @@
   - [DokuWiki Deployment (Knowledge Base)](https://github.com/jerbek/dokuwiki-deployment)
 <!--
 - <b>Scripting</b>
+  - 
+  - 
+<!--
+- <b>Configuration</b>
   - 
   - 
 

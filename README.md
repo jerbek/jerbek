@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>IT Authentication, Support, and Knowledge Suite</b>
+- <b>IT Authentication, Support, and Knowledge Lab Suite</b>
   - [Active Directory Deployment](https://github.com/jerbek/active-directory-deployment)
   - [osTicket Deployment (Help Desk Ticketing System)](https://github.com/jerbek/osticket-deployment)
   - [DokuWiki Deployment (Knowledge Base)](https://github.com/jerbek/dokuwiki-deployment)
